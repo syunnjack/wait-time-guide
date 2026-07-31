@@ -11,7 +11,7 @@ Wait Time Guideは、役所・病院・店舗・駅施設などの待ち時間�
 
 ## Suggested Domain
 
-- `machijikan.jp`
+- `https://syunnjack.github.io/wait-time-guide/`
 - `waitplus.jp`
 - `junban-navi.jp`
 
