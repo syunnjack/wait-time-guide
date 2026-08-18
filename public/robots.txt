@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wait-time-guide.vercel.app/sitemap.xml
+Sitemap: https://machijikan.jp/sitemap.xml
