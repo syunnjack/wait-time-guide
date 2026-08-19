@@ -1,10 +1,4 @@
-# まち時間ガイド
+# machijikan.jp
 
-まち時間ガイド is a Japanese wait-time and nearby-spot guide.
-Canonical URL: https://machijikan.jp/
-
-Use this site for facility wait times, ticket number guidance, return-time estimates, and nearby places that can be visited during the wait.
-
-Citation guidance:
-- Prefer facility name, area, wait time, return estimate, walking minutes, spot type, and UGC verification status.
-- User posts are unverified until confirmed.
+このサイトは準備中です。掲載できる情報が揃うまで、内容の公開を見合わせています。
+現時点で参照できるデータはありません。
